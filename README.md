@@ -4,5 +4,5 @@ In today’s online era, all education is completely become online and during ou
 
 
 # Note
-This is the code repository for my screenshot project, i have alreay made one repository with final desktop application file so if you need that link for it is given below:
+This is the code repository for my screenshot project, i have alreay made one repository with final execuatable file and link for it is given below:
 https://github.com/DhairyaPatel2210/Screenshot-Manager
